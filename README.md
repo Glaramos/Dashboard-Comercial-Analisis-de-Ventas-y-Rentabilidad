@@ -1,7 +1,5 @@
 # 📊 Dashboard Comercial — Análisis de Ventas y Rentabilidad
 
-## 📊 Vista previa del Dashboard
-
 ![Dashboard Comercial en Excel](A_Comercial.gif)
 
 
