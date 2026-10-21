@@ -117,6 +117,7 @@ Mediante indicadores, tablas dinámicas, gráficos y filtros interactivos, el da
 
 **Proyecto desarrollado como parte de mi portafolio de Análisis de Datos.**
 
-**Herramienta principal:** Microsoft Excel  
+**Herramientas y funcionalidades:** Microsoft Excel | Tablas dinámicas | Gráficos dinámicos | Segmentadores de datos | KPIs | Análisis de ventas y rentabilidad.
+
 **Área de análisis:** Ventas, costos, margen bruto y rentabilidad.
 
